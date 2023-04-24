@@ -1,3 +1,3 @@
-import streamlit as from st
+import streamlit as st
 
 st.title('Uber pickups in NYC')
