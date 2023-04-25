@@ -3,7 +3,7 @@ import streamlit as st
 import random
 
 # Code
-st.title('Uber pickups in USA')
+st.title('HELLO ANDREJ!!!')
 st.title(random.randint(1,100))
 
 number1 = st.number_input('Insert a number', key=1, value=0)
